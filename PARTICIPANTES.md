@@ -15,6 +15,7 @@ Ao adicionar o seu nome, por favor observe:
 | Adriano Roberto de Lima        | adriano.lima@arlima.com.br            | https://github.com/arlima                 |
 | Alessandro Teiji M. Watanabe   | alessandro.tw10@gmail.com             | https://github.com/TeijIW                 |
 | Alex Almeida Andrade           | alex.aldr@gmail.com                   | https://github.com/alexaldr               |
+| Alex Wong de Freitas           | otaru1921@gmail.com                   | https://github.com/otaru1921              |
 | Alexandre Ferreira             | alexandre4fl@hotmail.com              | https://github.com/Alexandre2539          |
 | Alexsandro Felix               | felix@ffelix.eti.br                   | https://github.com/asfelix                |
 | Aline de Farias Lisboa         | lisboalien@gmail.com                  | https://github.com/lisboalien             |
@@ -84,6 +85,7 @@ Ao adicionar o seu nome, por favor observe:
 | Hamon de Córdova Jorge         | hamoncj@gmail.com                     | https://github.com/hamonCordova           |
 | Helio Loureiro                 | helio@loureiro.eng.br                 | https://github.com/helioloureiro          |
 | Hemílio Lauro de Araújo Melo   | hemilioaraujo@gmail.com               | https://github.com/hemilioaraujo          |
+| Henrique G. G. Pereira         | oscoder@henrique.email                | https://github.com/ikkebr                 |
 | Hiago Leres da Costa           | hiagoleres2@gmail.com                 | https://github.com/hiagoleresdev          |
 | Higor Carneiro Passos          | higorcpassos@gmail.com                | https://github.com/hcpassos               |
 | Igor Lima Mendes               | igorlimamendes@protonmail.com         | https://github.com/igorlimamendes         |
